@@ -8,7 +8,7 @@
 - Gulp для автоматизації
 
 ## Для користувачів
-Відкрий проект онлайн: (https://dxter01.github.io/DxterHomeWork33/)
+Відкрий проект онлайн: https://dxter01.github.io/DxterHomeWork33/
 
 ## Для розробників
 1. Клонуй репозиторій
@@ -25,7 +25,7 @@ A web application for currency conversion using exchangerate-api.
 - Gulp for automation
 
 ## For Users
-Open the project online: (https://dxter01.github.io/DxterHomeWork33/)
+Open the project online: https://dxter01.github.io/DxterHomeWork33/
 
 ## For Developers
 1. Clone the repository
