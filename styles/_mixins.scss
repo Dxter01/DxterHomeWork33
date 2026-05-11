@@ -1,0 +1,16 @@
+@use "variables" as *;
+@use "sass:color";
+
+@mixin button-style {
+  background-color: $primary-color;
+  color: $accent-color;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+
+  &:hover {
+    background-color: color.adjust($primary-color, $lightness: -10%);
+  }
+}
